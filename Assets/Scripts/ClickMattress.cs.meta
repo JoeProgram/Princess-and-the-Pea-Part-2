@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1d7564d9cc1693446860b0dce82def45
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - flashMaterial: {instanceID: 0}
+  - featherPrefab: {fileID: 19800000, guid: b85e92e3b1abc5c4fb499284fb2f59b7, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\connected_worlds\Assets\Scripts\Envelope.cs">
+    <Files>
+      <File FileName="..\connected_worlds\Assets\Scripts\Prereq.cs" Line="20" Column="4" />
+      <File FileName="..\connected_worlds\Assets\Scripts\Envelope.cs" Line="29" Column="4" />
+      <File FileName="..\connected_worlds\Assets\Scripts\CSVReader.cs" Line="48" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
